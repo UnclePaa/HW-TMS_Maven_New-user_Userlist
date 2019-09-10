@@ -1,4 +1,4 @@
-package by.tms.Userlist;
+package by.tms.Userlist.entity;
 
 import java.util.Objects;
 
